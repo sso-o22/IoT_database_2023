@@ -1,6 +1,8 @@
 # IoT_database_2023
 IoT 개발자과정 데이터베이스 - MySQL
 
+![Mysql](https://github.com/sso-o22/IoT_database_2023/tree/main/Images/mysql.png)
+
 # 1일차
 1. MySQL 학습
     - 데이터베이스 개요
@@ -40,4 +42,3 @@ IoT 개발자과정 데이터베이스 - MySQL
     - BookRentalShop 쿼리 연습
 2. 코딩테스트
     - BookRentalShop
-    
